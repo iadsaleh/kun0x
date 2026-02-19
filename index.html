@@ -151,13 +151,13 @@
                         <span>{{ lang === 'en' ? 'EN' : 'AR' }}</span>
                     </button>
 
-                    <button @click="activeSection = 'games'"
+                    <button @click="switchSection('games')"
                         :class="activeSection === 'games' ? 'text-white' : 'text-gray-300 hover:text-white'"
                         class="text-sm transition-colors hidden md:block">{{ t.games }}</button>
-                    <button @click="activeSection = 'pricing'"
+                    <button @click="switchSection('pricing')"
                         :class="activeSection === 'pricing' ? 'text-white' : 'text-gray-300 hover:text-white'"
                         class="text-sm transition-colors hidden md:block">{{ t.pricing }}</button>
-                    <button @click="activeSection = 'blog'"
+                    <button @click="switchSection('blog')"
                         :class="activeSection === 'blog' ? 'text-white' : 'text-gray-300 hover:text-white'"
                         class="text-sm transition-colors hidden md:block">{{ t.blog }}</button>
 
@@ -678,7 +678,7 @@
             <div class="grid grid-cols-4 h-16 relative">
 
                 <!-- Games -->
-                <button @click="setSection('games')"
+                <button @click="switchSection('games')"
                     class="flex flex-col items-center justify-center gap-1 active:scale-90 transition-transform"
                     :class="activeSection === 'games' && !mobileMenuOpen ? 'text-indigo-400' : 'text-gray-500 hover:text-gray-300'">
                     <div class="relative">
@@ -691,7 +691,7 @@
                 </button>
 
                 <!-- Pricing -->
-                <button @click="setSection('pricing')"
+                <button @click="switchSection('pricing')"
                     class="flex flex-col items-center justify-center gap-1 active:scale-90 transition-transform"
                     :class="activeSection === 'pricing' && !mobileMenuOpen ? 'text-indigo-400' : 'text-gray-500 hover:text-gray-300'">
                     <i :class="activeSection === 'pricing' && !mobileMenuOpen ? 'fill-indigo-500/20' : ''"
@@ -700,7 +700,7 @@
                 </button>
 
                 <!-- Blog -->
-                <button @click="setSection('blog')"
+                <button @click="switchSection('blog')"
                     class="flex flex-col items-center justify-center gap-1 active:scale-90 transition-transform"
                     :class="activeSection === 'blog' && !mobileMenuOpen ? 'text-indigo-400' : 'text-gray-500 hover:text-gray-300'">
                     <i :class="activeSection === 'blog' && !mobileMenuOpen ? 'fill-indigo-500/20' : ''"
@@ -966,7 +966,7 @@
     </div>
 
     <!-- Logic -->
-    <script src="js/app.js?v=2026.2" defer></script>
+    <script src="js/app.js?v=2026.3" defer></script>
 </body>
 
 </html>
