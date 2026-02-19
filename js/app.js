@@ -126,7 +126,8 @@ createApp({
             }
         };
 
-        const setSection = (section) => {
+        const switchSection = (section) => {
+            console.log('Switching to section:', section);
             activeSection.value = section;
             mobileMenuOpen.value = false;
             document.body.style.overflow = '';
@@ -376,7 +377,7 @@ createApp({
             statistics,
 
             // Methods
-            toggleLang, toggleMobileMenu, setSection,
+            toggleLang, toggleMobileMenu, switchSection,
             openModal, closeModal, openArticle, closeArticle, resetFilters,
             goToPage, nextPage, prevPage, shouldShowPage,
 
