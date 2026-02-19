@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "adjust games",
+    "excerpt": "Essential Tips for Adjust Games in the Bot",
+    "content": "<p>For kun0x nexus users: When interacting with games integrated with the Adjust SDK where events appear under generic names (e.g., event1, event2...), you must utilize Sniper Mode. From there, select the first event and wait for it to be successfully registered, then return to select the second event, and so on.</p>\n\n<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n",
+    "image": "https://placehold.co/600x400/1e293b/ffffff?text=KUN+Nexus",
+    "date": "2026-02-19",
+    "author": "Admin"
+  },
+  {
+    "id": 2,
+    "title": "Update v2.0 Released",
+    "excerpt": "New features included in the latest update regarding AppsFlyer emulation.",
+    "content": "<p>We have updated our core engine to support the latest AppsFlyer SDK versions. Check out the new supported games list.</p>",
+    "image": "https://placehold.co/600x400/4f46e5/ffffff?text=Update+v2.0",
+    "date": "2024-06-15",
+    "author": "Dev Team"
+  }
+]
