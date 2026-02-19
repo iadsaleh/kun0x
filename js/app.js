@@ -17,6 +17,7 @@ createApp({
         const loading = ref(true);
         const scrolled = ref(false);
         const selectedGame = ref(null);
+        const mobileMenuOpen = ref(false);
 
         // Extended State
         const plans = ref([]);
@@ -110,10 +111,26 @@ createApp({
 
         const t = computed(() => translations[lang.value]);
 
-        const toggleLanguage = () => {
+        const toggleLang = () => {
             lang.value = lang.value === 'en' ? 'ar' : 'en';
             localStorage.setItem('nexus_lang', lang.value);
             updateDirection();
+        };
+
+        const toggleMobileMenu = () => {
+            mobileMenuOpen.value = !mobileMenuOpen.value;
+            if (mobileMenuOpen.value) {
+                document.body.style.overflow = 'hidden';
+            } else {
+                document.body.style.overflow = '';
+            }
+        };
+
+        const setSection = (section) => {
+            activeSection.value = section;
+            mobileMenuOpen.value = false;
+            document.body.style.overflow = '';
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         };
 
         const updateDirection = () => {
@@ -359,8 +376,12 @@ createApp({
             statistics,
 
             // Methods
-            toggleLanguage, openModal, closeModal, openArticle, closeArticle, resetFilters,
-            goToPage, nextPage, prevPage, shouldShowPage
+            toggleLang, toggleMobileMenu, setSection,
+            openModal, closeModal, openArticle, closeArticle, resetFilters,
+            goToPage, nextPage, prevPage, shouldShowPage,
+
+            // Mobile State
+            mobileMenuOpen
         };
     }
 }).mount('#app');
