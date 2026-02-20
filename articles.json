@@ -4,17 +4,17 @@
     "title": "adjust games",
     "excerpt": "Essential Tips for Adjust Games in the Bot",
     "content": "<p>For kun0x nexus users: When interacting with games integrated with the Adjust SDK where events appear under generic names (e.g., event1, event2...), you must utilize Sniper Mode. From there, select the first event and wait for it to be successfully registered, then return to select the second event, and so on.</p>\n\n<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n",
-    "image": "https://placehold.co/600x400/1e293b/ffffff?text=KUN+Nexus",
+    "image": "https://placehold.co/600x400/1e293b/ffffff?text=adjust+games",
     "date": "2026-02-19",
-    "author": "Admin"
+    "author": "Eng. Eiad Saleh"
   },
   {
     "id": 2,
-    "title": "Update v2.0 Released",
-    "excerpt": "New features included in the latest update regarding AppsFlyer emulation.",
-    "content": "<p>We have updated our core engine to support the latest AppsFlyer SDK versions. Check out the new supported games list.</p>",
-    "image": "https://placehold.co/600x400/4f46e5/ffffff?text=Update+v2.0",
+    "title": "KUN0X NEXUS",
+    "excerpt": "🖥️ KUN0X NEXUS: The Intelligent Event Simulation Engine",
+    "content": "<p>🖥️ KUN0X NEXUS: The Intelligent Event Simulation Engine</p>\n<p>Designed and Developed by: Eng. Eiad Saleh</p>\n<p></p>\n<p>📌 What is KUN0X NEXUS?</p>\n<p>It is an advanced automation tool that completely eliminates the hassle of manual gameplay and wasted time. The bot simulates actual gameplay on your behalf, issuing precise commands that confirm you have reached the required levels and completed the specified events in the offers, exactly as if you had played and finished the game on your phone.</p>\n\n<p>⚙️ Where does the bot operate (Scope of Intervention)?</p>\nThe system operates exclusively and specifically within the \"Middleware\" layer, located between the Game Client and the Mobile Measurement Partners (MMPs) such as:\n\n(Adjust, AppsFlyer, Singular, Kochava, Branch).</p>\n\n<p>The bot fully takes the place of the game; it handles sending the data for bypassing levels and events directly to the tracking platforms on behalf of your phone.</p>\n\n<p>🚫 System Boundaries (What the bot DOES NOT interfere with):</p>\nThe KUN0X NEXUS system is secure and isolated. It absolutely does not interfere with or manipulate the servers of Reward Apps and Websites such as:\n\n(Testerup, Freecash, Swagbucks, JustDice, Kashkick, Empfohlen)\n\nOr the servers of Ad Networks and Offerwalls such as:\n\n(Exmox, AyetStudios, Torox, RevU, Tapjoy, AdGem)</p>\n\n<p>Its role is strictly confined to \"replacing the game's role,\" leaving the tracking platform to complete the natural and secure cycle of notifying the ad network of your success, ensuring your rewards are credited to your account smoothly and reliably.</p>",
+    "image": "https://placehold.co/600x400/4f46e5/ffffff?text=KUN0X+NEXUS",
     "date": "2024-06-15",
-    "author": "Dev Team"
+    "author": "Eng. Eiad Saleh"
   }
 ]
