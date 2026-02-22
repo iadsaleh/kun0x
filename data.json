@@ -22,7 +22,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 3,
@@ -46,7 +46,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 4,
@@ -70,7 +70,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 5,
@@ -96,7 +96,7 @@
     ],
     "status": "active",
     "admin_notes": "qqqqqqqqqqqqqqqqqqqq",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 6,
@@ -120,7 +120,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 8,
@@ -144,7 +144,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 9,
@@ -168,7 +168,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 11,
@@ -192,7 +192,7 @@
     ],
     "status": "soon",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 12,
@@ -216,7 +216,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 13,
@@ -238,7 +238,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
   },
   {
     "id": 14,
@@ -262,7 +262,29 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.969841"
+  },
+  {
+    "id": 15,
+    "name": "Woodoku Blast (not avtive)",
+    "alias": "tripledot_blockbash",
+    "package_name": "com.tripledot.blockbash",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Tripledot Studios Limited",
+    "store_url": "https://play.google.com/store/apps/details?id=com.tripledot.blockbash&hl=en",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/3zYytd77MXlmtvwNZW_L0icufZPK2EIVBpa-asmPeVTaWdZvnL_ERldsqM_ujX6PfclG4A5jbvC9w1vZk6MDpQ=w480-h960-rw",
+    "header_image_url": "https://play-lh.googleusercontent.com/Hj4eHUFnGHkwQPVrHOiNBMp0DmI4Ou8uHzPvPDdUmFgHy7X5F1aNfB5Fks_YIQpayw",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 16,
@@ -286,7 +308,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 17,
@@ -310,7 +332,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 18,
@@ -334,7 +356,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 19,
@@ -360,7 +382,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 20,
@@ -384,7 +406,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 21,
@@ -406,7 +428,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 22,
@@ -430,7 +452,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 23,
@@ -454,7 +476,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 24,
@@ -476,7 +498,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 25,
@@ -498,7 +520,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 27,
@@ -522,7 +544,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 28,
@@ -544,7 +566,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 29,
@@ -569,7 +591,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 30,
@@ -591,7 +613,7 @@
     "available_events": [],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 31,
@@ -615,7 +637,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 32,
@@ -639,7 +661,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 33,
@@ -661,7 +683,7 @@
     "available_events": [],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 34,
@@ -701,7 +723,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 35,
@@ -732,7 +754,64 @@
     ],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
+  },
+  {
+    "id": 36,
+    "name": "The Grand Mafia (not active)",
+    "alias": "the_grand_mafia",
+    "package_name": "com.yottagames.gameofmafia",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Phantix Games",
+    "store_url": "https://play.google.com/store/apps/details?id=com.yottagames.gameofmafia&hl=nl",
+    "work_method": "<p>For kun0x nexus users: When interacting with games integrated with the Adjust SDK where events appear under generic names (e.g., event1, event2...), you must utilize Sniper Mode. From there, select the first event and wait for it to be successfully registered, then return to select the second event, and so on.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">إلى مستخدمي kun0x nexus: عند استخدام إحدى الألعاب المتضمنة مكتبة أدجست (Adjust SDK) والتي تظهر فيها الإفنتات بأسماء عامة (مثل event1, event2...)، فيجب على المستخدم أن يقوم باختيار نمط سنايبر (Sniper Mode). ومنه يختار الإفنت الأول وينتظر ليتم احتسابه، ثم يعود ليختار الإفنت الثاني وهكذا...</p>",
+    "icon_url": "https://play-lh.googleusercontent.com/BAfInphSBr3pZueXnrRNIX_0Qa1ir_hmQwEUaQytbVJ55z2FclwfgQtNwP8M12Xj1Q=w480-h960-rw",
+    "header_image_url": "https://play-lh.googleusercontent.com/OlnYxl4UsszNnq92ujVdskbnnE-q0EHoR-JKo6gcORoClawsmUrZaeWGuq6dBUw4ul0",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "Unknown 1",
+      "Unknown 2",
+      "Unknown 3",
+      "Unknown 4",
+      "Unknown 5",
+      "Unknown 6",
+      "Unknown 7",
+      "Unknown 8",
+      "Unknown 9",
+      "Unknown 10",
+      "Unknown 11",
+      "Unknown 12",
+      "Unknown 13",
+      "Unknown 14",
+      "Unknown 15",
+      "Unknown 16",
+      "Unknown 17",
+      "Unknown 18",
+      "Unknown 19",
+      "Unknown 20",
+      "Unknown 21",
+      "Unknown 22",
+      "Unknown 23",
+      "Unknown 24",
+      "Unknown 25",
+      "Unknown 26",
+      "Unknown 27",
+      "Unknown 28",
+      "Unknown 29",
+      "Unknown 30",
+      "Unknown 31",
+      "Unknown 32",
+      "Unknown 33",
+      "Unknown 34"
+    ],
+    "status": "active",
+    "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 37,
@@ -839,7 +918,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 38,
@@ -871,7 +950,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 39,
@@ -903,7 +982,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 40,
@@ -940,7 +1019,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 42,
@@ -978,7 +1057,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 43,
@@ -1009,7 +1088,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 44,
@@ -1038,7 +1117,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 45,
@@ -1071,7 +1150,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 46,
@@ -1147,7 +1226,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 47,
@@ -1184,7 +1263,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 48,
@@ -1216,7 +1295,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 49,
@@ -1249,7 +1328,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 50,
@@ -1329,7 +1408,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 51,
@@ -1432,7 +1511,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 52,
@@ -1487,7 +1566,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 53,
@@ -1528,7 +1607,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 54,
@@ -1573,7 +1652,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 55,
@@ -1657,7 +1736,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 56,
@@ -1686,7 +1765,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 57,
@@ -1720,7 +1799,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 58,
@@ -1753,7 +1832,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 59,
@@ -1795,7 +1874,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 60,
@@ -1835,7 +1914,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 61,
@@ -1864,7 +1943,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 62,
@@ -1904,7 +1983,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 63,
@@ -1945,7 +2024,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 64,
@@ -1977,7 +2056,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 65,
@@ -2016,7 +2095,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 66,
@@ -2047,7 +2126,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 67,
@@ -2098,7 +2177,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 68,
@@ -2127,7 +2206,7 @@
     ],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 69,
@@ -2162,7 +2241,7 @@
     ],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 70,
@@ -2188,7 +2267,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 71,
@@ -2235,7 +2314,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 72,
@@ -2269,7 +2348,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 73,
@@ -2299,7 +2378,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 74,
@@ -2333,7 +2412,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 75,
@@ -2360,7 +2439,7 @@
     ],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 76,
@@ -2392,7 +2471,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 77,
@@ -2433,7 +2512,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 78,
@@ -2472,7 +2551,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 79,
@@ -2506,7 +2585,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 80,
@@ -2561,7 +2640,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 81,
@@ -2590,7 +2669,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 82,
@@ -2622,7 +2701,7 @@
     ],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 83,
@@ -2660,7 +2739,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 84,
@@ -2691,7 +2770,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 85,
@@ -2732,7 +2811,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 86,
@@ -2767,7 +2846,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 87,
@@ -2793,7 +2872,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 88,
@@ -2821,7 +2900,7 @@
     ],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 89,
@@ -2849,7 +2928,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 90,
@@ -2877,7 +2956,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 91,
@@ -2905,7 +2984,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 92,
@@ -2936,7 +3015,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 94,
@@ -2963,7 +3042,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 95,
@@ -3008,7 +3087,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 96,
@@ -3044,7 +3123,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.587387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 97,
@@ -3070,7 +3149,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 98,
@@ -3095,7 +3174,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 99,
@@ -3130,7 +3209,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 100,
@@ -3143,8 +3222,8 @@
     "developer": "Tripledot Studios Limited",
     "store_url": "https://play.google.com/store/apps/details?id=com.zm.watersort&hl=en_US",
     "work_method": "<p>For kun0x nexus users: When interacting with games integrated with the Adjust SDK where events appear under generic names (e.g., event1, event2...), you must utilize Sniper Mode. From there, select the first event and wait for it to be successfully registered, then return to select the second event, and so on.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">إلى مستخدمي kun0x nexus: عند استخدام إحدى الألعاب المتضمنة مكتبة أدجست (Adjust SDK) والتي تظهر فيها الإفنتات بأسماء عامة (مثل event1, event2...)، فيجب على المستخدم أن يقوم باختيار نمط سنايبر (Sniper Mode). ومنه يختار الإفنت الأول وينتظر ليتم احتسابه، ثم يعود ليختار الإفنت الثاني وهكذا...</p>",
-    "icon_url": "",
-    "header_image_url": "",
+    "icon_url": "https://play-lh.googleusercontent.com/O1zG3L9PDwG874zDNEyVUa-KcbrvXZcsKvZeuxQqGEN48oMDzvjLtIeey3SquO8NU8Y",
+    "header_image_url": "https://play-lh.googleusercontent.com/gx3dh51QH0sfV6ScJcOjZFYKRODU9NfeLL39AIAtRiCzdxpmA8wBqryqAGzf8ioGrPzu",
     "genre": "Action",
     "is_featured": false,
     "is_new": false,
@@ -3182,7 +3261,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 101,
@@ -3220,7 +3299,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 102,
@@ -3247,7 +3326,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 104,
@@ -3294,7 +3373,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588387"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 105,
@@ -3325,7 +3404,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 106,
@@ -3353,7 +3432,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 107,
@@ -3385,7 +3464,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 108,
@@ -3423,7 +3502,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 109,
@@ -3455,7 +3534,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 110,
@@ -3489,7 +3568,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 111,
@@ -3539,7 +3618,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 112,
@@ -3568,7 +3647,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 113,
@@ -3600,7 +3679,7 @@
     ],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 114,
@@ -3643,7 +3722,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 115,
@@ -3671,7 +3750,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 116,
@@ -3717,7 +3796,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 117,
@@ -3742,7 +3821,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 118,
@@ -3776,7 +3855,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 119,
@@ -3813,7 +3892,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 120,
@@ -3847,7 +3926,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 121,
@@ -3875,7 +3954,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 122,
@@ -3908,7 +3987,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 124,
@@ -3977,7 +4056,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 125,
@@ -4012,7 +4091,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 126,
@@ -4047,7 +4126,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 127,
@@ -4088,7 +4167,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 128,
@@ -4114,7 +4193,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 129,
@@ -4147,7 +4226,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 130,
@@ -4176,7 +4255,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 131,
@@ -4206,7 +4285,7 @@
     ],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 132,
@@ -4242,7 +4321,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 133,
@@ -4281,7 +4360,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 134,
@@ -4336,7 +4415,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 135,
@@ -4370,7 +4449,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 136,
@@ -4399,7 +4478,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 137,
@@ -4428,7 +4507,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.588499"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 138,
@@ -4457,7 +4536,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 139,
@@ -4484,7 +4563,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 140,
@@ -4519,7 +4598,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 141,
@@ -4547,7 +4626,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 142,
@@ -4586,7 +4665,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 143,
@@ -4610,7 +4689,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 144,
@@ -4641,7 +4720,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 145,
@@ -4672,7 +4751,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 146,
@@ -4706,7 +4785,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 147,
@@ -4736,7 +4815,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 148,
@@ -4762,7 +4841,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 149,
@@ -4790,7 +4869,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 150,
@@ -4837,7 +4916,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 151,
@@ -4873,7 +4952,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 152,
@@ -4899,7 +4978,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 153,
@@ -4939,7 +5018,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 154,
@@ -4968,7 +5047,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 155,
@@ -5001,7 +5080,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 156,
@@ -5038,7 +5117,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 157,
@@ -5093,7 +5172,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 158,
@@ -5133,7 +5212,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 159,
@@ -5166,7 +5245,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 160,
@@ -5206,7 +5285,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 161,
@@ -5235,7 +5314,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 162,
@@ -5267,7 +5346,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 163,
@@ -5300,7 +5379,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 164,
@@ -5330,7 +5409,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 165,
@@ -5369,7 +5448,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 166,
@@ -5405,7 +5484,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 167,
@@ -5435,7 +5514,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 168,
@@ -5485,7 +5564,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 169,
@@ -5515,7 +5594,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 170,
@@ -5542,7 +5621,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 171,
@@ -5570,7 +5649,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 172,
@@ -5601,7 +5680,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 173,
@@ -5632,7 +5711,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 174,
@@ -5673,7 +5752,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 175,
@@ -5703,7 +5782,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 176,
@@ -5737,7 +5816,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 177,
@@ -5762,7 +5841,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 178,
@@ -5792,7 +5871,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 179,
@@ -5821,7 +5900,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.971751"
   },
   {
     "id": 180,
@@ -5854,7 +5933,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 181,
@@ -5884,7 +5963,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 182,
@@ -5919,7 +5998,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 183,
@@ -5955,7 +6034,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 184,
@@ -6000,7 +6079,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 185,
@@ -6037,7 +6116,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 186,
@@ -6075,7 +6154,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 187,
@@ -6110,7 +6189,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 188,
@@ -6134,7 +6213,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 189,
@@ -6173,7 +6252,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 190,
@@ -6212,7 +6291,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 191,
@@ -6256,7 +6335,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973263"
   },
   {
     "id": 192,
@@ -6388,7 +6467,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 193,
@@ -6422,7 +6501,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 194,
@@ -6471,7 +6550,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 195,
@@ -6514,7 +6593,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 196,
@@ -6553,7 +6632,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 197,
@@ -6583,7 +6662,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 198,
@@ -6610,7 +6689,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 199,
@@ -6636,7 +6715,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 200,
@@ -6668,7 +6747,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 201,
@@ -6699,7 +6778,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 202,
@@ -6728,7 +6807,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 203,
@@ -6752,7 +6831,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 204,
@@ -6777,7 +6856,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 205,
@@ -6804,7 +6883,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 206,
@@ -6835,7 +6914,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 207,
@@ -6891,7 +6970,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 208,
@@ -6921,7 +7000,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 209,
@@ -6955,7 +7034,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 210,
@@ -6983,7 +7062,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 211,
@@ -7019,7 +7098,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 212,
@@ -7049,7 +7128,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 213,
@@ -7083,7 +7162,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 214,
@@ -7114,7 +7193,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 216,
@@ -7192,7 +7271,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 217,
@@ -7219,7 +7298,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 218,
@@ -7274,7 +7353,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 219,
@@ -7304,7 +7383,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 221,
@@ -7341,7 +7420,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 222,
@@ -7374,7 +7453,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 223,
@@ -7408,7 +7487,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 224,
@@ -7454,7 +7533,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 225,
@@ -7484,7 +7563,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 226,
@@ -7511,7 +7590,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 227,
@@ -7537,7 +7616,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 228,
@@ -7565,7 +7644,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 229,
@@ -7621,7 +7700,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 230,
@@ -7661,7 +7740,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 231,
@@ -7689,11 +7768,11 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 232,
-    "name": "X2 Number Puzzle",
+    "name": "X2 Number Puzzle (not avtive)",
     "alias": "x2_number_puzzle",
     "package_name": null,
     "provider": "Adjust",
@@ -7728,7 +7807,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 233,
@@ -7766,7 +7845,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 234,
@@ -7807,7 +7886,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 235,
@@ -7846,7 +7925,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 236,
@@ -7946,7 +8025,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 237,
@@ -7984,7 +8063,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 238,
@@ -8015,7 +8094,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 253,
@@ -8039,7 +8118,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 254,
@@ -8063,7 +8142,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 255,
@@ -8087,7 +8166,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 256,
@@ -8111,7 +8190,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.589013"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 257,
@@ -8135,7 +8214,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 258,
@@ -8159,7 +8238,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 259,
@@ -8183,7 +8262,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 260,
@@ -8207,7 +8286,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 261,
@@ -8231,7 +8310,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 262,
@@ -8255,7 +8334,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 263,
@@ -8289,7 +8368,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 264,
@@ -8322,7 +8401,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 265,
@@ -8346,7 +8425,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 266,
@@ -8370,7 +8449,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 267,
@@ -8395,7 +8474,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 269,
@@ -8419,7 +8498,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 270,
@@ -8444,7 +8523,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 271,
@@ -8477,7 +8556,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 272,
@@ -8503,7 +8582,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 274,
@@ -8528,7 +8607,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 275,
@@ -8553,7 +8632,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 276,
@@ -8578,7 +8657,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 277,
@@ -8603,7 +8682,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 278,
@@ -8630,7 +8709,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 285,
@@ -8654,7 +8733,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 312,
@@ -8679,7 +8758,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 313,
@@ -8704,7 +8783,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 314,
@@ -8729,7 +8808,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 315,
@@ -8762,7 +8841,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 316,
@@ -8787,7 +8866,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 317,
@@ -8812,7 +8891,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 318,
@@ -8837,7 +8916,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 319,
@@ -8862,7 +8941,7 @@
     ],
     "status": "soon",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 320,
@@ -8887,7 +8966,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 321,
@@ -8911,7 +8990,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 322,
@@ -8935,7 +9014,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 323,
@@ -8959,7 +9038,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 324,
@@ -9008,7 +9087,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 326,
@@ -9046,7 +9125,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 327,
@@ -9081,7 +9160,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 328,
@@ -9106,7 +9185,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 329,
@@ -9144,7 +9223,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 330,
@@ -9168,7 +9247,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 331,
@@ -9192,7 +9271,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 332,
@@ -9216,7 +9295,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 333,
@@ -9238,7 +9317,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 334,
@@ -9260,7 +9339,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 335,
@@ -9284,7 +9363,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 336,
@@ -9306,7 +9385,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 337,
@@ -9328,7 +9407,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 338,
@@ -9350,7 +9429,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 339,
@@ -9374,7 +9453,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 340,
@@ -9398,7 +9477,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 341,
@@ -9422,7 +9501,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 342,
@@ -9446,7 +9525,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 343,
@@ -9468,7 +9547,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 344,
@@ -9490,7 +9569,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 345,
@@ -9512,7 +9591,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 346,
@@ -9534,7 +9613,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 347,
@@ -9556,7 +9635,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 348,
@@ -9578,7 +9657,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 349,
@@ -9600,7 +9679,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 350,
@@ -9635,7 +9714,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 351,
@@ -9659,7 +9738,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 352,
@@ -9683,7 +9762,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 353,
@@ -9707,7 +9786,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 354,
@@ -9729,7 +9808,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 355,
@@ -9751,7 +9830,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 356,
@@ -9773,7 +9852,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 357,
@@ -9812,7 +9891,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.973370"
   },
   {
     "id": 358,
@@ -9850,7 +9929,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 359,
@@ -9874,7 +9953,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 360,
@@ -9896,7 +9975,7 @@
     "available_events": [],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 361,
@@ -9918,7 +9997,7 @@
     "available_events": [],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 362,
@@ -9942,7 +10021,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 363,
@@ -9966,7 +10045,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 364,
@@ -9990,7 +10069,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 365,
@@ -10014,7 +10093,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 366,
@@ -10038,7 +10117,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 367,
@@ -10062,7 +10141,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 368,
@@ -10086,7 +10165,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 369,
@@ -10110,7 +10189,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 370,
@@ -10134,7 +10213,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 371,
@@ -10158,7 +10237,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 372,
@@ -10182,7 +10261,7 @@
     ],
     "status": "not_active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 373,
@@ -10220,7 +10299,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 374,
@@ -10259,7 +10338,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 375,
@@ -10295,7 +10374,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 376,
@@ -10317,33 +10396,11 @@
     "available_events": [],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
-  },
-  {
-    "id": 377,
-    "name": "Color Block Jam",
-    "alias": "color_block_jam",
-    "package_name": "com.GybeGames.ColorBlockJam",
-    "provider": "Adjust",
-    "device_os": "android",
-    "price": 0.0,
-    "developer": "Rollic Games",
-    "store_url": "https://play.google.com/store/apps/details?id=com.GybeGames.ColorBlockJam",
-    "work_method": "<p>For kun0x nexus users: When interacting with games integrated with the Adjust SDK where events appear under generic names (e.g., event1, event2...), you must utilize Sniper Mode. From there, select the first event and wait for it to be successfully registered, then return to select the second event, and so on.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">إلى مستخدمي kun0x nexus: عند استخدام إحدى الألعاب المتضمنة مكتبة أدجست (Adjust SDK) والتي تظهر فيها الإفنتات بأسماء عامة (مثل event1, event2...)، فيجب على المستخدم أن يقوم باختيار نمط سنايبر (Sniper Mode). ومنه يختار الإفنت الأول وينتظر ليتم احتسابه، ثم يعود ليختار الإفنت الثاني وهكذا...</p>",
-    "icon_url": "https://play-lh.googleusercontent.com/f8twcDzXl_K4Zo7GTp-053H5N_jygmGYCegjmOUxYNVocnXkYgSCA2H8Md5SNgaX_H28UA9WJaU0-cfSY53Jf04=w480-h960-rw",
-    "header_image_url": "https://play-lh.googleusercontent.com/OyWgcKjU_FQ7ppzjpSJSHUtmr1p5dl_X9Zs_kfk_I46CZaYPsv4lzYd1JisZZjg_qw",
-    "genre": "Action",
-    "is_featured": false,
-    "is_new": false,
-    "jambara_modes": [],
-    "available_events": [],
-    "status": "active",
-    "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 378,
-    "name": "Color Block Jam",
+    "name": "Color Block Jam (ios)",
     "alias": "color_block_jam_1",
     "package_name": "6504332779",
     "provider": "Adjust",
@@ -10361,7 +10418,7 @@
     "available_events": [],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 379,
@@ -10387,7 +10444,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 380,
@@ -10437,7 +10494,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 381,
@@ -10496,7 +10553,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 382,
@@ -10520,7 +10577,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 383,
@@ -10544,31 +10601,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
-  },
-  {
-    "id": 384,
-    "name": "Mech Arena - Shooting Game (not active)",
-    "alias": "mech_arena___shooting_game__not_active_",
-    "package_name": "com.plarium.mechlegion",
-    "provider": "AppsFlyer",
-    "device_os": "android",
-    "price": 0.0,
-    "developer": "Plarium Global Ltd",
-    "store_url": "https://play.google.com/store/apps/details?id=com.plarium.mechlegion&hl=en",
-    "work_method": "Added by Admin in Control Panel",
-    "icon_url": "https://play-lh.googleusercontent.com/6g1NsDCN_UyC2py2dwdNX_rEGDSncFn8pLN-fXNNL_9gyNWHM-FkYSRGo1c3G8ayTtA=w480-h960-rw",
-    "header_image_url": "https://play-lh.googleusercontent.com/sLPLYDtJjmzIMYePUKGBDs7BHDwrrSibws1ge12OzLQNxgcLBIZ8KlQXlB4LnVeGo7s",
-    "genre": "Action",
-    "is_featured": false,
-    "is_new": false,
-    "jambara_modes": [],
-    "available_events": [
-      "level_up"
-    ],
-    "status": "active",
-    "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 385,
@@ -10592,7 +10625,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 386,
@@ -10618,7 +10651,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 387,
@@ -10642,7 +10675,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 388,
@@ -10664,7 +10697,7 @@
     "available_events": [],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 389,
@@ -10688,7 +10721,7 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 390,
@@ -10737,7 +10770,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 391,
@@ -10788,7 +10821,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 392,
@@ -10842,7 +10875,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 393,
@@ -10893,7 +10926,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 394,
@@ -10950,7 +10983,7 @@
     ],
     "status": "active",
     "admin_notes": "<p>Note: Triggering some of the listed events will not result in any credit, as they are designated for non-required actions.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">ملاحظة: بعض الإفنتات الموجودة لا يؤدي استخدامها لاحتساب شيء، حيث تكون مخصصة لأحداث غير مطلوبة.</p>",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
   },
   {
     "id": 395,
@@ -10963,8 +10996,8 @@
     "developer": "Wixot Games",
     "store_url": "https://play.google.com/store/apps/details?id=com.wixot.merge&hl=en_US",
     "work_method": "Added by Admin in Control Panel",
-    "icon_url": "",
-    "header_image_url": "",
+    "icon_url": "https://play-lh.googleusercontent.com/y8AFX7Sf-kWgFzBluG9BBxf14fAKfctKoHgRnU6tDRLOlEbuohTpDLcaVO-mBbUwskEci25IBdRaodKwqPn_",
+    "header_image_url": "https://play-lh.googleusercontent.com/6h3grPUB8tyFadvAE_L9IHnnGsV8TtVSYKE7nTD8trFpQXmYKYaWRtvkgGNFYBxjH00",
     "genre": "Action",
     "is_featured": false,
     "is_new": false,
@@ -10996,6 +11029,945 @@
     ],
     "status": "active",
     "admin_notes": "",
-    "updated_at": "2026-02-20T05:59:07.590022"
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 396,
+    "name": "Color Block Jam ",
+    "alias": "color_block_jam_",
+    "package_name": "com.GybeGames.ColorBlockJam",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Rollic Games",
+    "store_url": "https://play.google.com/store/apps/details?id=com.GybeGames.ColorBlockJam&hl=en_US",
+    "work_method": "<p>For kun0x nexus users: When interacting with games integrated with the Adjust SDK where events appear under generic names (e.g., event1, event2...), you must utilize Sniper Mode. From there, select the first event and wait for it to be successfully registered, then return to select the second event, and so on.</p>\n<br>\n<p dir=\"rtl\" style=\"text-align: right;\">إلى مستخدمي kun0x nexus: عند استخدام إحدى الألعاب المتضمنة مكتبة أدجست (Adjust SDK) والتي تظهر فيها الإفنتات بأسماء عامة (مثل event1, event2...)، فيجب على المستخدم أن يقوم باختيار نمط سنايبر (Sniper Mode). ومنه يختار الإفنت الأول وينتظر ليتم احتسابه، ثم يعود ليختار الإفنت الثاني وهكذا...</p>",
+    "icon_url": "https://play-lh.googleusercontent.com/f8twcDzXl_K4Zo7GTp-053H5N_jygmGYCegjmOUxYNVocnXkYgSCA2H8Md5SNgaX_H28UA9WJaU0-cfSY53Jf04=w480-h960-rw",
+    "header_image_url": "https://play-lh.googleusercontent.com/OyWgcKjU_FQ7ppzjpSJSHUtmr1p5dl_X9Zs_kfk_I46CZaYPsv4lzYd1JisZZjg_qw",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "event 1",
+      "event 2",
+      "event 3",
+      "event 4",
+      "event 5",
+      "event 6",
+      "event 7",
+      "event 8",
+      "event 9",
+      "event 10",
+      "event 11",
+      "event 12",
+      "event 13",
+      "event 14",
+      "event 15",
+      "event 16",
+      "event 17",
+      "event 18",
+      "event 19",
+      "event 20",
+      "event 21",
+      "event 22",
+      "event 23",
+      "event 24",
+      "event 25",
+      "event 26",
+      "event 27",
+      "event 28",
+      "event 29",
+      "event 30",
+      "event 31",
+      "event 32",
+      "event 33",
+      "event 34",
+      "event 35",
+      "event 36",
+      "event 37",
+      "event 38",
+      "event 39",
+      "event 40",
+      "event 41",
+      "event 42",
+      "event 43",
+      "event 44",
+      "event 45",
+      "event 46",
+      "event 47",
+      "event 48",
+      "event 49",
+      "event 50",
+      "event 51",
+      "event 52",
+      "event 53",
+      "event 54",
+      "event 55",
+      "event 56",
+      "event 57",
+      "event 58",
+      "event 59",
+      "event 60",
+      "event 61",
+      "event 62",
+      "event 63",
+      "event 64",
+      "event 65",
+      "event 66",
+      "event 67",
+      "event 68"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 397,
+    "name": "Yahtzee® With Buddies Dice Fun",
+    "alias": "yahtzee__with_buddies_dice_fun",
+    "package_name": "com.scopely.yux",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Scopely",
+    "store_url": "https://play.google.com/store/apps/details?id=com.scopely.yux&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/NekSJag3GNUdq5sDuP3ex91yTrTrF5mhhpQ29zSN8mpeWoTZX6zTKqRnpRRaNhOHL2Nc",
+    "header_image_url": "https://play-lh.googleusercontent.com/TMxG6v-y9GyC1hs3aOHdAfntz3JHkFCN3ZmsaFADjyj_cqSer0QVPoyNVIl3KQ7nIsYc7ChqxeaiINlBLfKQ4g",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "event 1",
+      "event 2",
+      "event 3",
+      "event 4",
+      "event 5",
+      "event 6",
+      "event 7",
+      "event 8",
+      "event 9",
+      "event 10",
+      "event 11",
+      "event 12",
+      "event 13",
+      "event 14"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 398,
+    "name": "8 Ball Pool (not active)",
+    "alias": "8_ball_pool__not_active_",
+    "package_name": "com.miniclip.eightballpool",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Miniclip.com",
+    "store_url": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/bPz1guJ6FHF3oIOEy3KqwpaDDKO-hLRaZoyzmM8bLFLN8fWm6L0_EuUnkwv9iqPo3Ag",
+    "header_image_url": "https://play-lh.googleusercontent.com/8xQandAjjrWWqYCvblg6s5-DhsnCnVP2RdSgRfXx3gdBOOCbypR0gCNGhiLIvh0DspQ",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "level_up"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 399,
+    "name": "Ghost Invasion: Idle Hunter (not active)",
+    "alias": "ghost_invasion__idle_hunter__not_active_",
+    "package_name": "com.miniclip.ghostinvasion",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Miniclip.com",
+    "store_url": "https://play.google.com/store/apps/details?id=com.miniclip.ghostinvasion&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/uqg6t5X4HUHoholHfqD8QaDL_If4YRItfo0PL06akKIxFdKVG3tlb9NZM7yKqC5LC7GY",
+    "header_image_url": "https://play-lh.googleusercontent.com/x9y4Bp6l7WKsDBhjvkuWPOXgJMvFID73wZ4-znCNjF87zmlRp3024VhFOvwbPZ78-SE",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "level_up"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 400,
+    "name": "Swamp Attack 2",
+    "alias": "swamp_attack_2",
+    "package_name": "com.hyperdotstudios.swampattack2",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Moving Eye",
+    "store_url": "https://play.google.com/store/apps/details?id=com.hyperdotstudios.swampattack2&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/v5ovSih4U3H1dYWA2ULcmIH6ECNw5tHDLwJb1JI1cJ6ZolNkf5SkIvls7EuHRMBYv4ZMKMbocsQCmOiRI00clQ",
+    "header_image_url": "https://play-lh.googleusercontent.com/_wtO8G2lH6B4uoSYyrSuQPqDdvpTEfNjKr1XFAOhtNHm3AjmfGhxUCgFI0S1pvewBFg",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "Complete Chapter 1",
+      "Complete Chapter 1 Level 3",
+      "Complete Chapter 1 Level 6",
+      "Complete Chapter 10",
+      "Complete Chapter 11",
+      "Complete Chapter 12",
+      "Complete Chapter 13",
+      "Complete Chapter 2",
+      "Complete Chapter 2 Level 10",
+      "Complete Chapter 2 Level 5",
+      "Complete Chapter 3",
+      "Complete Chapter 4",
+      "Complete Chapter 5",
+      "Complete Chapter 8"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 401,
+    "name": "Aliens vs Zombies: Invasion",
+    "alias": "aliens_vs_zombies__invasion__not_active_",
+    "package_name": "aliens.zombies.invasion",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "GAMEGEARS LTD",
+    "store_url": "https://play.google.com/store/apps/details?id=aliens.zombies.invasion&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/_UEe-P-8ZRB88H6C42TD1Z9BmRZ44MCM9LE6l3bmh_71O1dFrZQ8EPB7QXr0P03mkq0",
+    "header_image_url": "https://play-lh.googleusercontent.com/4sRo5HIAhabAEYCzeJsGGnmBx1_rkwK3nabxVAh-H9UrMLLBgXtGOiYAhj-H7tiUaQ",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "lecentral building reached level",
+      "level start"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 402,
+    "name": "Tetris® Block Party (not active)",
+    "alias": "tetris__block_party__not_active_",
+    "package_name": "com.playstudios.tetrisblockparty",
+    "provider": "Singular",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "PLAYSTUDIOS US, LLC",
+    "store_url": "https://play.google.com/store/apps/details?id=com.playstudios.tetrisblockparty&referrer=singular_click_id%3Dc17c53d9-1f3b-4555-8cb5-9fc4608976c5",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/E36OaZoeHSjfAmB7osJSw9CNsOAxLXQYzTA7UfcX6kJxe19tKwW1LMOI3ummgxQcPR2Y",
+    "header_image_url": "https://play-lh.googleusercontent.com/PfL1Q6RB9B302kopSic0NM9MBOpRTvhjTTE41cq5g91Io3ZcPbwH_CTQwUHD1BaFckM",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 403,
+    "name": "POP! Slots™ (not active)",
+    "alias": "pop__slots___not_active_",
+    "package_name": "com.playstudios.popslots",
+    "provider": "Singular",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "PLAYSTUDIOS US, LLC",
+    "store_url": "https://play.google.com/store/apps/details?id=com.playstudios.popslots",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/sOgKfsizQG7PEKCtk2_lxY8m9qNmPF5gPqeMPiMIGTAYl9Q1qfgs-tOqa6pP5lhwPmQ",
+    "header_image_url": "https://play-lh.googleusercontent.com/LIsrMSO6yWdkIYG8C6OSb3EWF3Q7i8X8tjZcizbgpwSX1cBSXuHbeKBz1ApVT_2f7g0B6Goizxjg350E-5OQqg",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 404,
+    "name": "Drop Away: Color Puzzle",
+    "alias": "drop_away__color_puzzle__not_active_",
+    "package_name": "com.brewgames.dropaway",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Rollic Games",
+    "store_url": "https://play.google.com/store/apps/details?id=com.brewgames.dropaway&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/Q7zO6DlwWRV7CB5zyv2udzNLsi12to9I5Et-H0y-gtHuoNFXdz6qrM15TBIogAbZW9CwXBMGlihE1B4WWq3GaA",
+    "header_image_url": "https://play-lh.googleusercontent.com/-F1lu1NPLqDlfMDqeXqf-D40hIe0fcODbDY2ai3Rb4ick02TWO6iOkuCjgog4HQGmw8",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "event 1",
+      "event 2",
+      "event 3",
+      "event 4",
+      "event 5",
+      "event 6",
+      "event 7",
+      "event 8",
+      "event 9",
+      "event 10",
+      "event 11",
+      "event 12",
+      "event 13",
+      "event 14",
+      "event 15",
+      "event 16",
+      "event 17",
+      "event 18",
+      "event 19",
+      "event 20",
+      "event 21",
+      "event 22",
+      "event 23",
+      "event 24",
+      "event 25",
+      "event 26",
+      "event 27",
+      "event 28",
+      "event 29",
+      "event 30",
+      "event 31",
+      "event 32",
+      "event 33",
+      "event 34",
+      "event 35",
+      "event 36",
+      "event 37",
+      "event 38",
+      "event 39",
+      "event 40",
+      "event 41",
+      "event 42",
+      "event 43",
+      "event 44",
+      "event 45",
+      "event 46",
+      "event 47",
+      "event 48",
+      "event 49",
+      "event 50",
+      "event 51",
+      "event 52",
+      "event 53",
+      "event 54",
+      "event 55",
+      "event 56",
+      "event 57",
+      "event 58",
+      "event 59",
+      "event 60",
+      "event 61",
+      "event 62",
+      "event 63",
+      "event 64"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 405,
+    "name": "LUDUS・Strategy PvP Battle Game",
+    "alias": "ludus_strategy_pvp_battle_game__not_active_",
+    "package_name": "com.studion.mergearena",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "TOP APP GAMES LTD",
+    "store_url": "https://play.google.com/store/apps/details?id=com.studion.mergearena&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/PHac-lseZZDd3lXlBGcOy0eusYiOdmi1CTgPyiPTXfrC0psI8pjsvNflIQIQYyNt--jYwIVUCz08d-94Tlr8sQ",
+    "header_image_url": "https://play-lh.googleusercontent.com/Bb2GyRIWGjzAxREGL_aP-lJTmBIa02rE813YcosUhfCetq9tjhrXbcce_2HnXIhtxqeqjJj-kg0IHWmYjwPfpw",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "pvp finish"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 406,
+    "name": "Word Search Sea: Puzzle Game",
+    "alias": "word_search_sea__puzzle_game__n0t_active_",
+    "package_name": "com.openmygame.games.android.wordsearchsea",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Malpa Games",
+    "store_url": "https://play.google.com/store/apps/details?id=com.openmygame.games.android.wordsearchsea&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/UZkwc8mG5PRPU6BGzgmZLH40duVQlYsi5XcJNGPDuaSN0pFJs2oPsg_LYibJhzSx-4Q8",
+    "header_image_url": "https://play-lh.googleusercontent.com/tj2JDj4MtM6TkE9yr_f5BpG-ySkODD_pcmtcLyVLqOWUsS7ma0waBNDNav2TtPXSDyki",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "chapter complete {0, 1, 2...}",
+      "complete level {1, 2...}",
+      "pack complete"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974381"
+  },
+  {
+    "id": 407,
+    "name": "Solitaire Revelry (not active)",
+    "alias": "solitaire_revelry__not_active_",
+    "package_name": "com.carnival.park.ride.solitaire",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Joe Kinyua Mbogo",
+    "store_url": "https://play.google.com/store/apps/details?id=com.carnival.park.ride.solitaire&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/PVUVM_v_3kluCFR3s_rUwghP7qLXJ1aNQdoXuwAyguKObeHeCpFffx4agIcpvP35NPC6_UUkSr6Leb62VSunqA",
+    "header_image_url": "https://play-lh.googleusercontent.com/n1fU9g9isCg8wszwut9UEfxRDBWgWZrGnDC2667goav8RUIWE4GYBspiS6Yf5Ee_B4-fCgkF7Ddw9x2eUT_-",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
+  },
+  {
+    "id": 408,
+    "name": "Candy Crush Saga (not active)",
+    "alias": "candy_crush_saga__not_active_",
+    "package_name": "com.king.candycrushsaga",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "King",
+    "store_url": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/JvMhIxuwArVmcMReJQB8PIEB1MIQNMGf9j5i914JtkBrHrA55K-nMUIVlYCa7SXAdHtzLtsycEo6NpXeHFxLwvI",
+    "header_image_url": "https://play-lh.googleusercontent.com/lYzwkVZaQP4SqBZM_1ijulKe7nLHfNh5AKaOlYKRIvMSfRslXnMxkGyFwShrSOdbadk",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "level_up"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
+  },
+  {
+    "id": 409,
+    "name": "bingo cash (not active)",
+    "alias": "bingo_cash__not_active_",
+    "package_name": "com.papaya.bingocash",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "papaya",
+    "store_url": "https://www.google.com/url?q=https://galaxystore.samsung.com/detail/com.papaya.bingocash%3FlangCd%3Den&sa=U&ved=2ahUKEwjwvN6J2euSAxVaz_ACHQrxLu8QFnoECAQQAg&usg=AOvVaw0BbogG9n1pCYbf5EwkP66u",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "",
+    "header_image_url": "",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "level_up"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
+  },
+  {
+    "id": 410,
+    "name": "Cribbage Classic - Card Game (not active)",
+    "alias": "cribbage_classic___card_game__not_active_",
+    "package_name": "com.funcraft.cribcardboard",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "FunCraft Games",
+    "store_url": "https://play.google.com/store/apps/details?id=com.funcraft.cribcardboard&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/0UFk0Npy0nYuI9H_kB5Pqi7wC5hCdn0k2S3rC65ysAJHbQWb6DyPfiiWcNW_jdjDQRtmj9tbMxqO17VUgXs0",
+    "header_image_url": "https://play-lh.googleusercontent.com/8YptCiA1mF7HErWt22jfDARXfn-fa3S78B5Dur92F2dUAvGWulRfdcmMBQJMLOA3tSGl5j3sNHsgHz3YQ1JsBAo",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "event 1",
+      "event 2",
+      "event 3",
+      "event 4",
+      "event 5",
+      "event 6",
+      "event 7",
+      "event 8",
+      "event 9",
+      "event 10",
+      "event 11",
+      "event 12",
+      "event 13",
+      "event 14",
+      "event 15",
+      "event 16",
+      "event 17",
+      "event 18",
+      "event 19",
+      "event 20",
+      "event 21",
+      "event 22",
+      "event 23"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
+  },
+  {
+    "id": 411,
+    "name": "Box Away: Collect & Sort 3D (not active)",
+    "alias": "box_away__collect___sort_3d__not_active_",
+    "package_name": "com.unicogames.jamgame",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Unico Games Studio",
+    "store_url": "https://play.google.com/store/apps/details?id=com.unicogames.jamgame&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/J0vr4dxAiX6c5AEoUgYq6nXjuhyK7gD1ebH8KVoAzVOWNIO5ESTg8sVyfxL5yuJXVA",
+    "header_image_url": "https://play-lh.googleusercontent.com/94I7NFP_EDBUSx8HgucOS40VieU9NfiJRZkxyfXuujFfDLkQXYjH_3E5oJc4WZz-Q7FOXdLPKTcOnUQLFdqVgA",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "event 1",
+      "event 2",
+      "event 3",
+      "event 4",
+      "event 5",
+      "event 6",
+      "event 7",
+      "event 8",
+      "event 9",
+      "event 10",
+      "event 11",
+      "event 12",
+      "event 13",
+      "event 14",
+      "event 15",
+      "event 16",
+      "event 17",
+      "event 18",
+      "event 19",
+      "event 20",
+      "event 21",
+      "event 22",
+      "event 23",
+      "event 24",
+      "event 25",
+      "event 26"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
+  },
+  {
+    "id": 412,
+    "name": "Timeline Up (not active)",
+    "alias": "timeline_up__not_active_",
+    "package_name": "com.MojoGames.EraEvolution",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Rollic Games",
+    "store_url": "https://play.google.com/store/apps/details?id=com.MojoGames.EraEvolution&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/7z8NwH1N0oPpcRvv1EnJbNhlGVKOj0hWJ-Sjyiv3fiYx78b4QyOhP77TJhO4yYS0ev_K5XVFvg7w0Nj6mET_yA",
+    "header_image_url": "https://play-lh.googleusercontent.com/_NHP5FplAOzSxakX8vyBQe-AxbjUBoD2pTUinoOZcWfuYhI9M-bnXj6gVrMFt8q5bDU",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "event 1",
+      "event 2",
+      "event 3",
+      "event 4",
+      "event 5",
+      "event 6",
+      "event 7",
+      "event 8",
+      "event 9",
+      "event 10",
+      "event 11",
+      "event 12",
+      "event 13",
+      "event 14",
+      "event 15",
+      "event 16",
+      "event 17",
+      "event 18",
+      "event 19",
+      "event 20",
+      "event 21",
+      "event 22",
+      "event 23",
+      "event 24",
+      "event 25",
+      "event 26",
+      "event 27",
+      "event 28",
+      "event 29",
+      "event 30",
+      "event 31",
+      "event 32",
+      "event 33",
+      "event 34",
+      "event 35",
+      "event 36",
+      "event 37",
+      "event 38",
+      "event 39",
+      "event 40",
+      "event 41",
+      "event 42",
+      "event 43",
+      "event 44",
+      "event 45",
+      "event 46",
+      "event 47",
+      "event 48",
+      "event 49",
+      "event 50",
+      "event 51",
+      "event 52",
+      "event 53",
+      "event 54",
+      "event 55",
+      "event 56",
+      "event 57",
+      "event 58",
+      "event 59",
+      "event 60",
+      "event 61",
+      "event 62",
+      "event 63",
+      "event 64",
+      "event 65",
+      "event 66",
+      "event 67",
+      "event 68",
+      "event 69",
+      "event 70",
+      "event 71",
+      "event 72",
+      "event 73",
+      "event 74",
+      "event 75",
+      "event 76",
+      "event 77",
+      "event 78",
+      "event 79"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
+  },
+  {
+    "id": 413,
+    "name": "Knit Out (not active)",
+    "alias": "knit_out__not_active_",
+    "package_name": "com.sbg.knitout",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Rollic Games",
+    "store_url": "https://play.google.com/store/apps/details?id=com.sbg.knitout&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/xT0joHtD3CMdqXV4W5LbF_2nUh8sw3P2X4fw4t0XG8BoufVLJOoorfR661gW4u1ORfDkKqVtFE3nQf3ox-Tf5WU",
+    "header_image_url": "https://play-lh.googleusercontent.com/VaHDm5k3K96_OiHtqW_nGKDfTi2DE8XOT7JvVXkQNrJurk90wW8_0lNck04xy5wopsnj",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "event 1",
+      "event 2",
+      "event 3",
+      "event 4",
+      "event 5",
+      "event 6",
+      "event 7",
+      "event 8",
+      "event 9",
+      "event 10",
+      "event 11",
+      "event 12",
+      "event 13",
+      "event 14",
+      "event 15",
+      "event 16",
+      "event 17",
+      "event 18",
+      "event 19",
+      "event 20",
+      "event 21",
+      "event 22",
+      "event 23",
+      "event 24",
+      "event 25",
+      "event 26",
+      "event 27",
+      "event 28",
+      "event 29",
+      "event 30",
+      "event 31",
+      "event 32",
+      "event 33",
+      "event 34",
+      "event 35",
+      "event 36",
+      "event 37",
+      "event 38",
+      "event 39",
+      "event 40",
+      "event 41",
+      "event 42",
+      "event 43",
+      "event 44",
+      "event 45",
+      "event 46",
+      "event 47",
+      "event 48",
+      "event 49",
+      "event 50",
+      "event 51",
+      "event 52",
+      "event 53",
+      "event 54",
+      "event 55",
+      "event 56",
+      "event 57",
+      "event 58",
+      "event 59",
+      "event 60",
+      "event 61",
+      "event 62",
+      "event 63",
+      "event 64",
+      "event 65",
+      "event 66",
+      "event 67",
+      "event 68",
+      "event 69",
+      "event 70",
+      "event 71",
+      "event 72",
+      "event 73"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
+  },
+  {
+    "id": 414,
+    "name": "Pocket Champs: 3D Racing Games (not active)",
+    "alias": "pocket_champs__3d_racing_games__not_active_",
+    "package_name": "com.pocketchamps.game",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Madbox",
+    "store_url": "https://play.google.com/store/apps/details?id=com.pocketchamps.game&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/VOHFS_ynG--Snu-hXpagEVdN-UXqlqB0NQJMoFkuP5NAOFbwgOo12zVBmsDLwGpugqTN",
+    "header_image_url": "https://play-lh.googleusercontent.com/llmJ6317rfEMcnrwJTwWBag01zam0rsFAM_D57cY4svQMXWE6WVzG2b2O4rmQENZyw",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "event 1",
+      "event 2",
+      "event 3",
+      "event 4",
+      "event 5",
+      "event 6",
+      "event 7",
+      "event 8",
+      "event 9",
+      "event 10",
+      "event 11",
+      "event 12",
+      "event 13",
+      "event 14",
+      "event 15",
+      "event 16",
+      "event 17",
+      "event 18",
+      "event 19",
+      "event 20",
+      "event 21",
+      "event 22",
+      "event 23",
+      "event 24",
+      "event 25",
+      "event 26",
+      "event 27",
+      "event 28",
+      "event 29",
+      "event 30",
+      "event 31",
+      "event 32",
+      "event 33",
+      "event 34",
+      "event 35",
+      "event 36",
+      "event 37",
+      "event 38",
+      "event 39",
+      "event 40",
+      "event 41",
+      "event 42",
+      "event 43",
+      "event 44",
+      "event 45",
+      "event 46"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
+  },
+  {
+    "id": 415,
+    "name": "Triple Match City (not active)",
+    "alias": "triple_match_city__not_active_",
+    "package_name": "com.rc.cityCleaner",
+    "provider": "Adjust",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Ferah Games",
+    "store_url": "https://play.google.com/store/apps/details?id=com.rc.cityCleaner&hl=en_US",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/9VLUCIT5P1vjQHkkX7UBQrIBxNQ5NeZVHNZYtG8RG8CWWc9ZL97Q6G4PsyqAkW77Kw",
+    "header_image_url": "https://play-lh.googleusercontent.com/ZKu7En4y2pJHJyOTJPeBveRFwsWnmjiOKagQdnnUswzx22cNlyjJ5tw0xdFaI8DrS5aC",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "event 1",
+      "event 2",
+      "event 3",
+      "event 4",
+      "event 5",
+      "event 6",
+      "event 7",
+      "event 8",
+      "event 9",
+      "event 10",
+      "event 11",
+      "event 12",
+      "event 13",
+      "event 14",
+      "event 15",
+      "event 16",
+      "event 17",
+      "event 18",
+      "event 19",
+      "event 20",
+      "event 21",
+      "event 22",
+      "event 23",
+      "event 24",
+      "event 25",
+      "event 26",
+      "event 27",
+      "event 28",
+      "event 29",
+      "event 30",
+      "event 31",
+      "event 32",
+      "event 33",
+      "event 34",
+      "event 35",
+      "event 36",
+      "event 37",
+      "event 38",
+      "event 39",
+      "event 40",
+      "event 41"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
+  },
+  {
+    "id": 416,
+    "name": "Chapters: Interactive Stories (not active)",
+    "alias": "chapters__interactive_stories__not_active_",
+    "package_name": "com.mars.avgchapters",
+    "provider": "AppsFlyer",
+    "device_os": "android",
+    "price": 0.0,
+    "developer": "Crazy Maple Studio Dev",
+    "store_url": "https://play.google.com/store/apps/details?id=com.mars.avgchapters&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dcom.mars.avgchapters",
+    "work_method": "Added by Admin in Control Panel",
+    "icon_url": "https://play-lh.googleusercontent.com/5MVoVLSmZ_DpfoUxgyaUoPnMyd3jPxQ-lTG5ejGbTG6wAQljS6i3C-rINbNtIKuFE3MCLNHD9IfZcuicbOKqdQ",
+    "header_image_url": "https://play-lh.googleusercontent.com/z5k1_rDQIhlyPK48BK_FVL1aSsfE2Foc-lZECeGM8E-Qic3iluTJZM3o5Shx_RKZknk",
+    "genre": "Action",
+    "is_featured": false,
+    "is_new": false,
+    "jambara_modes": [],
+    "available_events": [
+      "level_up"
+    ],
+    "status": "active",
+    "admin_notes": "",
+    "updated_at": "2026-02-22T03:52:28.974937"
   }
 ]
