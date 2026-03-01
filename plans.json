@@ -1,33 +1,51 @@
 [
-    {
-        "id": 1,
-        "name": "Starter",
-        "price": "9.99",
-        "currency": "$",
-        "period": "/month",
-        "features": [
-            "Access to 5 Games",
-            "Basic Support",
-            "No Ads"
-        ],
-        "is_recommended": false,
-        "button_text": "Subscribe",
-        "button_link": "#"
-    },
-    {
-        "id": 2,
-        "name": "Pro",
-        "price": "19.99",
-        "currency": "$",
-        "period": "/month",
-        "features": [
-            "Access to All Games",
-            "Priority Support",
-            "No Ads",
-            "Early Access"
-        ],
-        "is_recommended": true,
-        "button_text": "Get Pro",
-        "button_link": "#"
-    }
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "10",
+    "currency": "$",
+    "period": "/month",
+    "features": [
+      "إجراء خمس عمليات يوميا.",
+      "الوصول لألعاب أدجست.",
+      "الوصول لألعاب أندرويد."
+    ],
+    "is_recommended": false,
+    "button_text": "Get Basic",
+    "button_link": "https://t.me/Kun0x_bot"
+  },
+  {
+    "id": 2,
+    "name": "Premium",
+    "price": "20",
+    "currency": "$",
+    "period": "/month",
+    "features": [
+      "إجراء عشرين عملية يوميا.",
+      "الوصول لألعاب أدجست.",
+      "الوصول لألعاب أبس فلير.",
+      "الوصول لألعاب أندرويد."
+    ],
+    "is_recommended": true,
+    "button_text": "Get Premium",
+    "button_link": "https://t.me/Kun0x_bot"
+  },
+  {
+    "id": 1772336595392,
+    "name": "Private",
+    "price": "75",
+    "currency": "$",
+    "period": "/month",
+    "features": [
+      "إجراء مئة عملية يوميا.",
+      "الوصول لألعاب أدجست.",
+      "الوصول لألعاب أبس فلير.",
+      "الوصول لألعاب أندرويد.",
+      "الوصول لألعاب آيفون.",
+      "الوصول لميزة الخطط الزمنية المخصصة."
+    ],
+    "is_recommended": false,
+    "button_text": "Get Private",
+    "button_link": "https://t.me/Kun0x_bot"
+  }
 ]
