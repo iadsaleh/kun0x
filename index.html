@@ -5,13 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KUN 0X Nexus - Game Catalog</title>
-    <!--
-      Telegram in-app browsers sometimes hide cross-origin errors as "Script error."
-      Adding crossorigin helps surface real errors (when CORS headers allow it).
-    -->
-    <script src="https://cdn.tailwindcss.com" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://unpkg.com/vue@3/dist/vue.global.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://unpkg.com/lucide@latest" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Local assets (more reliable inside Telegram in-app browser) -->
+    <link rel="stylesheet" href="css/tailwind.css?v=2026.4">
+    <script src="vendor/vue.global.prod.js?v=3.0" defer></script>
+    <script src="vendor/lucide.min.js?v=1.0" defer></script>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         body {
