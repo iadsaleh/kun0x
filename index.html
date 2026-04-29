@@ -5,10 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KUN 0X Nexus - Game Catalog</title>
-    <!-- Local assets (more reliable inside Telegram in-app browser) -->
-    <link rel="stylesheet" href="css/tailwind.css?v=2026.4">
-    <script src="vendor/vue.global.prod.js?v=3.0" defer></script>
-    <script src="vendor/lucide.min.js?v=1.0" defer></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         body {
@@ -104,23 +103,9 @@
             const errorLog = document.getElementById('error-log');
             if (errorLog) {
                 errorLog.style.display = 'block';
-                const where = url ? `\nFile: ${url}` : '';
-                const pos = (line || col) ? `\nLine: ${line || 0}, Col: ${col || 0}` : '';
-                errorLog.textContent += `Error: ${msg}${where}${pos}\n\n`;
+                errorLog.textContent += `Error: ${msg}\nLine: ${line}\n\n`;
             }
         };
-        // Resource load errors (e.g., CDN blocked) — very common inside Telegram WebView.
-        window.addEventListener('error', function (event) {
-            const target = event && event.target;
-            const isResourceError = target && (target.tagName === 'SCRIPT' || target.tagName === 'LINK' || target.tagName === 'IMG');
-            if (!isResourceError) return;
-            const errorLog = document.getElementById('error-log');
-            if (errorLog) {
-                errorLog.style.display = 'block';
-                const src = target.src || target.href || '(unknown)';
-                errorLog.textContent += `Resource load error: ${target.tagName}\nURL: ${src}\n\n`;
-            }
-        }, true);
         window.addEventListener('unhandledrejection', function (event) {
             const errorLog = document.getElementById('error-log');
             if (errorLog) {
